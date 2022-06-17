@@ -1,4 +1,7 @@
-# Projeto-Mobile-First-Alura-Books
- Projeto em desenvolvimento durante o curso da Alura de HTML e CSS
+# Projeto Mobile First Aura Books :globe_with_meridians:
+Projeto de um mobile first desenvolvido durante o curso de **HTML5** e **CSS3** da *Alura*.
  
- -->EM CONSTRUÇÃO<--
+ * Segue os links para acessar o código e a página do projeto:
+ 
+Index | [Código]() | [Site]()
+---|---|---|
