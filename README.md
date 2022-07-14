@@ -17,10 +17,8 @@ Considerações Finais | [Autor](#autor) | [Agradecimentos](#agradecimentos)
 
 ### Desafio
 
-O desafio foi construir este projeto e fazê-lo parecer o mais próximo possível do design. Os usuários devem ser capazes de:
+O desafio foi construir este projeto criando um menu hamburguer com HTML e CSS, integrar um carrossel com SwiperJS e fazê-lo parecer o mais próximo possível do design. Os usuários devem ser capazes de:
 
-- Criar um menu hamburguer com HTML e CSS;
-- Integrar um carrossel com SwiperJS;
 - Vizualizar o layout ideal tanto para dispositivos mobiles quanto para desktops;
 - Vizualizar os estados de foco para elementos interativos. 
 
