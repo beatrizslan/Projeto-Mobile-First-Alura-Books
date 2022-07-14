@@ -1,6 +1,6 @@
 # Alura - Solução do Projeto Mobile First AluraBooks
 
-Minha solução de codificação do projeto disponibilizado durante o curso de Front-end da [Alura](https://www.alura.com.br/formacao-front-end).
+Codificação de um projeto disponibilizado durante o curso de Front-end da [Alura](https://www.alura.com.br/formacao-front-end).
 
 ## Indíce
 
@@ -101,8 +101,7 @@ body {
 
 ### Autor
 
-- Website - [Beatriz Slan](https://beatrizslan.github.io/Projeto-Mobile-First-Alura-Books/)
-- Alura - [Curso de Front-end](https://www.alura.com.br/formacao-front-end)
+- Website - [Beatriz Slan | Alura](https://beatrizslan.github.io/Projeto-Mobile-First-Alura-Books/)
 - Linkedin - [in/beatriz-slan](https://www.linkedin.com/in/beatriz-slan-2324a4173/)
 
 
