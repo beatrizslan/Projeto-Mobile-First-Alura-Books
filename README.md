@@ -4,14 +4,19 @@ Codificação de um projeto disponibilizado durante o curso de Front-end da [Alu
 
 ## Indíce
 
-Visão Geral | [Desafio](#desafio) | [Screenshot](#screenshot) | [Links](#links)
----|---|---|---
+**Visão Geral**
+>[Desafio](#desafio) |
+>[Screenshot](#screenshot) |
+>[Links](#links)
 
-Meu Processo | [Construído com](#construído-com) | [O que eu aprendi](#o-que-eu-aprendi) | [Recursos úteis](#recursos-úteis)
----|---|---|---
+**Meu Processo**
+>[Construído com](#construído-com) | 
+>[O que eu aprendi](#o-que-eu-aprendi) | 
+>[Recursos úteis](#recursos-úteis)
 
-Considerações Finais | [Autor](#autor) | [Agradecimentos](#agradecimentos)
----|---|---
+**Considerações Finais** 
+>[Autor](#autor) |
+>[Agradecimentos](#agradecimentos)
 
 ## Visão Geral
 
